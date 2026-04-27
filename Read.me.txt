@@ -1,0 +1,3 @@
+Links to datasets
+- https://www.kaggle.com/datasets/arashnic/dynamic-pricing-dataset
+- https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
